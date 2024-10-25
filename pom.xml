@@ -1,0 +1,26 @@
+ 1 <project>
+ 2
+ 3 <modelVersion>4.0.0</modelVersion>
+ 4
+ 5  <groupId>com.flipkart</groupId>
+ 6  <artifactId>flipkart</artifactId>
+ 7  <packaging>jar</packaging>
+ 8  <version>1.0-SNAPSHOT</version>
+ 9
+ 10  <name>flipkart</name>
+ 11
+ 12  <properties>
+ 13     <maven.compiler.source>1.8</maven.compiler.source>
+ 14     <maven.compiler.source>1.8</maven.compiler.target>
+ 15  </properties>
+ 16
+ 17  <dependencies>
+ 18    <dependencies>
+ 19      <groupId>junit</groupId>
+ 20      <artifactId>4.12</artifactId>
+ 21      <version>4.12</version>
+ 22      <scope>test</scope>
+ 23    </dependencies>
+ 24   </dependencies>
+ 25
+ 26  </project>
